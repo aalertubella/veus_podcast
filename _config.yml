@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Andrea Aler Tubella, Laura Fernàndez Julià, Helena Ribera"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Veus?"
+  avatar : "/assets/images/veus_logo.jpg"
   bio    : "Veus? El podcast més modest sobre cinema, ciència, feminisme i anècdotes personals (que no privades). Uneix-te a les nostres converses més absurdes i gaudeix!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
+      #url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/veus_podcast"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+   #   url: "https://github.com/"
+   # - label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
 
 footer:
   links:
