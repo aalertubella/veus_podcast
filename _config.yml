@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  "Veus? El podcast més modest sobre cinema, ciència, feminisme i anècdotes personals (que no privades). Uneix-te a les nostres converses més absurdes i gaudeix!"
 twitter_username: "veus_podcast"
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Veus?"
-  avatar : "/assets/images/veus_logo.jpg"
+  avatar : "/assets/images/veus_logo.png"
   bio    : "Veus? El podcast més modest sobre cinema, ciència, feminisme i anècdotes personals (que no privades). Uneix-te a les nostres converses més absurdes i gaudeix!"
   links:
     #- label: "Website"
